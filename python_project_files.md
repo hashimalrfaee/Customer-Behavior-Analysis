@@ -1,15 +1,4 @@
-لقد جهزت لك مجلد Python جاهز للرفع على GitHub.
 
-**هيكل المجلد:**
-Python/
-   ├── customer_analysis.py   <-- ضع كود البايثون هنا
-   └── README.md             <-- جاهز للرفع مع شرح الكود
-
----
-
-**محتوى README.md داخل المجلد Python:**
-
-```markdown
 # Python Scripts for Customer Behavior Analysis
 
 This folder contains Python scripts for analyzing customer behavior and generating insights for the Tableau dashboard.
