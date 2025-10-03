@@ -1,6 +1,7 @@
 # Customer Behavior Analysis Dashboard
 
-![Dashboard Screenshot](Screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshot%202025-10-03%20140354.png)
+
 
 ## 📊 Overview
 This project presents a Tableau dashboard analyzing customer demographics, behavior, and segmentation.
