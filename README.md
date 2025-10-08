@@ -2,6 +2,11 @@
 
 ![Dashboard Screenshot](Screenshot%202025-10-03%20140354.png)
 
+" Dashboard showing customer segmentation by spending and visit frequency"
+
+# Business Use Case
+- This dashboard helps the marketing team understand customer segments and optimize campaigns.
+
 
 ## 📊 Overview
 This project presents a Tableau dashboard analyzing customer demographics, behavior, and segmentation.
